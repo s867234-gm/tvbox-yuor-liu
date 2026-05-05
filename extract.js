@@ -54,30 +54,6 @@ function findApiJson(dir) {
   return null;
 }
 
-// 修复相对路径（保持不变）
-function fixPaths(obj) {
-  if (typeof obj === "string") {
-    if (obj.startsWith("./")) {
-      return `https://gitee.com/cpu-iy/lib/raw/master/${obj.slice(2)}`;
-    }
-    if (obj.startsWith("../")) {
-      return `https://gitee.com/cpu-iy/lib/raw/master/${obj.slice(3)}`;
-    }
-    return obj;
-  }
-  if (Array.isArray(obj)) {
-    return obj.map(fixPaths);
-  }
-  if (typeof obj === "object" && obj !== null) {
-    const res = {};
-    for (const [k, v] of Object.entries(obj)) {
-      res[k] = fixPaths(v);
-    }
-    return res;
-  }
-  return obj;
-}
-
 try {
   // 1) 自动识别解压文件夹
   const root = findExtractedFolder();
