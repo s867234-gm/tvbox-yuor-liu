@@ -57,19 +57,6 @@
       }
     },
     {
-      "name": "🚀豆瓣｜嗷呜弹幕｜搜索自启",
-      "key": "GoConfig",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm1.png",
-      "api": "csp_GoConfigAmns",
-      "indexs": 1,
-      "searchable": 1,
-      "filterable": 0,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/douban.png"
-    },
-    {
       "key": "盒马短剧",
       "name": "🎬盒马┃短剧",
       "type": 3,
