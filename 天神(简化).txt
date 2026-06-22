@@ -34,16 +34,6 @@
   ],
   "sites": [
     {
-      "key": "版本信息",
-      "name": "🌹天神｜小屋(点这里或首页或主页可切换站源)",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/天神小屋.png"
-    },
-    {
       "key": "配置中心",
       "name": "🌐配置中心｜6.17版",
       "type": 3,
@@ -54,90 +44,6 @@
       "style": {
         "type": "rect",
         "ratio": 1.597
-      }
-    },
-    {
-      "key": "盒马短剧",
-      "name": "🎬盒马┃短剧",
-      "type": 3,
-      "api": "csp_HemaAmns",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "genre": "shortdrama",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm2.png"
-    },
-    {
-      "name": "🎬豪堪｜短剧",
-      "key": "豪堪｜短剧",
-      "type": 3,
-      "api": "csp_HHkkAmns",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm2.png"
-    },
-    {
-      "name": "🎬围观｜短剧",
-      "key": "围观｜短剧",
-      "type": 3,
-      "api": "csp_WgdjAmns",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm2.png"
-    },
-    {
-      "name": "🎬拜拜｜短剧",
-      "key": "拜拜｜短剧",
-      "type": 3,
-      "api": "csp_BddjAmns",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm2.png"
-    },
-    {
-      "name": "🎬喵喵｜短剧",
-      "key": "喵喵｜短剧",
-      "type": 3,
-      "api": "csp_QmdjAmns",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm2.png"
-    },
-    {
-      "name": "🎬星星｜短剧",
-      "key": "星星｜短剧",
-      "type": 3,
-      "api": "csp_XydjAmns",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm2.png"
-    },
-    {
-      "key": "至臻",
-      "name": "🌐至臻｜4K自扫",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://mihdr.top",
-          "https://www.miqk.cc",
-          "https://www.mihdr.top"
-        ]
       }
     },
     {
@@ -201,41 +107,6 @@
         "149.112.112.112"
       ]
     }
-  ],
-  "flags": [
-    "youku",
-    "优酷",
-    "优 酷",
-    "优酷视频",
-    "qq",
-    "腾讯",
-    "腾 讯",
-    "腾讯视频",
-    "iqiyi",
-    "qiyi",
-    "奇艺",
-    "爱奇艺",
-    "爱 奇 艺",
-    "m1905",
-    "xigua",
-    "letv",
-    "leshi",
-    "乐视",
-    "乐 视",
-    "sohu",
-    "搜狐",
-    "搜 狐",
-    "搜狐视频",
-    "tudou",
-    "pptv",
-    "mgtv",
-    "芒果",
-    "imgo",
-    "芒果TV",
-    "芒 果 T V",
-    "bilibili",
-    "哔 哩",
-    "哔 哩 哔 哩"
   ],
   "ijk": [
     {
