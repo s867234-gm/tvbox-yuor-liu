@@ -35,6 +35,19 @@
 
   "sites": [
     {
+      "name": "🚀豆瓣｜嗷呜弹幕｜搜索自启",
+      "key": "GoConfig",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm1.png",
+      "api": "csp_GoConfigAmns",
+      "indexs": 1,
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/douban.png"
+    },
+    {
       "key": "多多",
       "name": "🌐多多｜4K自扫",
       "type": 3,
