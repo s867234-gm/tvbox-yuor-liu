@@ -61,6 +61,23 @@
       }
     },
     {
+      "key": "多多",
+      "name": "🌐多多｜4K自扫",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://tv.yydsys.top",
+          "https://tv.yydsys.cc",
+          "https://tv.214521.xyz"
+        ]
+      }
+    },
+    {
       "key": "配置中心",
       "name": "🌐配置中心｜6.17版",
       "type": 3,
